@@ -1,0 +1,175 @@
+0*****MUSIC LOG*****
+0Artist: The Beatles
+0Song: Hey Jude - Remastered 2015
+0Album: 1 (Remastered)
+0Spotify link: https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl
+0*****MUSIC LOG*****
+0Artist: Karaoke Box
+0Song: I Saw the Sign (Karaoke Playback with Lead Vocals) [Made Famous by Ace of Base]
+0Album: Karaoke Box: Reggae Greatest Hits
+0Spotify link: https://open.spotify.com/track/0jQYAjEb8atbTeLcnuGJTR
+0******MOVIE LOG*****
+0Title: Frozen
+0Released: 2013
+0Rated: PG
+0Genre: Animation, Adventure, Comedy, Family, Fantasy, Musical
+0Run Time: 102 min
+0Rating: 7.5
+0Rotten Tomatoes Rating: 90%
+0Country: USA
+0Language:  English, Norwegian
+0Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+0Plot: When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+0******MOVIE LOG*****
+0Title: Shrek
+0Released: 2001
+0Rated: PG
+0Genre: Animation, Adventure, Comedy, Family, Fantasy
+0Run Time: 90 min
+0Rating: 7.9
+0Rotten Tomatoes Rating: 88%
+0Country: USA
+0Language:  English
+0Actors: Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow
+0Plot: A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.
+0******CONCERT LOG******
+0Venue: Celebrity Theatre
+0City: Phoenix, AZ
+0Date and Time: 05/20/2019, 19:30
+0******CONCERT LOG******
+0Venue: Celebrity Theatre
+0City: Phoenix, AZ
+0Date and Time: 05/21/2019, 19:30
+0******CONCERT LOG******
+0Venue: Bethel Woods Center For the Arts
+0City: Bethel, NY
+0Date and Time: 06/13/2019, 12:00
+0******CONCERT LOG******
+0Venue: Darling's Waterfront Pavilion
+0City: Bangor, ME
+0Date and Time: 06/14/2019, 16:00
+0******CONCERT LOG******
+0Venue: Bethel Woods Center For the Arts
+0City: Bethel, NY
+0Date and Time: 06/15/2019, 12:00
+0******CONCERT LOG******
+0Venue: Xfinity Theatre
+0City: Hartford, CT
+0Date and Time: 06/16/2019, 15:00
+0******CONCERT LOG******
+0Venue: Merriweather Post Pavilion
+0City: Columbia, MD
+0Date and Time: 06/19/2019, 19:00
+0******CONCERT LOG******
+0Venue: Budweiser Stage
+0City: Toronto, 
+0Date and Time: 06/21/2019, 16:30
+0******CONCERT LOG******
+0Venue: KeyBank Pavilion
+0City: Burgettstown, PA
+0Date and Time: 06/22/2019, 15:00
+0******CONCERT LOG******
+0Venue: Nationwide Arena
+0City: Columbus, OH
+0Date and Time: 06/23/2019, 14:30
+0******CONCERT LOG******
+0Venue: Michigan Lottery Amphitheatre at Freedom Hill
+0City: Sterling Heights, MI
+0Date and Time: 06/25/2019, 19:30
+0******CONCERT LOG******
+0Venue: American Family Insurance Amphitheater
+0City: Milwaukee, WI
+0Date and Time: 06/27/2019, 13:00
+0******CONCERT LOG******
+0Venue: Hollywood Casino Amphitheatre
+0City: Tinley Park, IL
+0Date and Time: 06/28/2019, 13:30
+0******CONCERT LOG******
+0Venue: Hollywood Casino Amphitheatre - St. Louis
+0City: Maryland Heights, MO
+0Date and Time: 06/29/2019, 14:30
+0******CONCERT LOG******
+0Venue: Dos Equis Pavilion
+0City: Dallas, TX
+0Date and Time: 07/03/2019, 13:00
+0******CONCERT LOG******
+0Venue: Austin360 Amphitheater
+0City: Austin, TX
+0Date and Time: 07/04/2019, 11:30
+0******CONCERT LOG******
+0Venue: Resch Center
+0City: Green Bay, WI
+0Date and Time: 08/01/2019, 19:30
+0******CONCERT LOG******
+0Venue: Target Center
+0City: Minneapolis, MN
+0Date and Time: 08/02/2019, 19:30
+0******CONCERT LOG******
+0Venue: Pinewood Bowl Theater
+0City: Lincoln, NE
+0Date and Time: 08/03/2019, 18:30
+0******CONCERT LOG******
+0Venue: Allen County War Memorial Coliseum
+0City: Fort Wayne, IN
+0Date and Time: 08/05/2019, 19:30
+0******CONCERT LOG******
+0Venue: Huntington Center
+0City: Toledo, OH
+0Date and Time: 08/07/2019, 19:30
+0******CONCERT LOG******
+0Venue: Van Andel Arena
+0City: Grand Rapids, MI
+0Date and Time: 08/09/2019, 19:30
+0******CONCERT LOG******
+0Venue: Big Sandy Superstore Arena
+0City: Huntington, WV
+0Date and Time: 08/10/2019, 19:30
+0******CONCERT LOG******
+0Venue: Florence Civic Center
+0City: Florence, SC
+0Date and Time: 08/12/2019, 19:30
+0******CONCERT LOG******
+0Venue: John Paul Jones Arena
+0City: Charlottesville, VA
+0Date and Time: 08/14/2019, 19:30
+0******CONCERT LOG******
+0Venue: Bon Secours Wellness Arena
+0City: Greenville, SC
+0Date and Time: 08/16/2019, 19:30
+0******CONCERT LOG******
+0Venue: Greensboro Coliseum Complex
+0City: Greensboro, NC
+0Date and Time: 08/17/2019, 19:30
+0******CONCERT LOG******
+0Venue: Bank of New Hampshire Pavilion
+0City: Gilford, NH
+0Date and Time: 09/06/2019, 17:00
+0******CONCERT LOG******
+0Venue: Forest Hills Stadium
+0City: Forest Hills, NY
+0Date and Time: 09/11/2019, 16:30
+0******CONCERT LOG******
+0Venue: TD Pavilion at the Mann
+0City: Philadelphia, PA
+0Date and Time: 09/13/2019, 16:00
+0******CONCERT LOG******
+0Venue: Veterans United Home Loans Amphitheater
+0City: Virginia Beach, VA
+0Date and Time: 09/14/2019, 12:30
+0******CONCERT LOG******
+0Venue: Coastal Credit Union Music Park At Walnut Creek
+0City: Raleigh, NC
+0Date and Time: 09/15/2019, 16:00
+0******CONCERT LOG******
+0Venue: Ruoff Home Mortgage Music Center
+0City: Noblesville, IN
+0Date and Time: 09/20/2019, 17:00
+0******CONCERT LOG******
+0Venue: Riverbend Music Center
+0City: Cincinnati, OH
+0Date and Time: 09/22/2019, 18:30
+0*****MUSIC LOG*****
+0Artist: Backstreet Boys
+0Song: I Want It That Way
+0Album: The Hits--Chapter One
+0Spotify link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
